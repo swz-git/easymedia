@@ -1,0 +1,32 @@
+{
+  "name": "easyplayer",
+  "version": "1.0.0",
+  "description": "A node media player powered by ffmpeg.",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "node test/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWZ-github/easyplayer.git"
+  },
+  "keywords": [
+    "soundplayer",
+    "player",
+    "mediaplayer",
+    "media",
+    "sound",
+    "easy",
+    "node",
+    "speaker",
+    "ffmpeg",
+    "ffplay"
+  ],
+  "author": "SWZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SWZ-github/easyplayer/issues"
+  },
+  "homepage": "https://github.com/SWZ-github/easyplayer#readme",
+  "dependencies": {}
+}
