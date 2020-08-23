@@ -4,6 +4,10 @@ A node media player powered by ffmpeg.
 
 ## Installing
 
+Make sure to have ffmpeg installed.
+If you do not you can install it via
+this tutorial from [Windowsloop](https://windowsloop.com/install-ffmpeg-windows-10/#download-ffmpeg).
+
 Type `npm i -s easymedia` into your terminal/console.
 
 ## Usage
