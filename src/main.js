@@ -34,7 +34,7 @@ module.exports.Media = class Media {
   constructor(path) {
     this.path = path;
   }
-  play(window_title = "Easyplayer") {
+  play(window_title = "EasyMedia") {
     this.player = spawn("ffplay", [
       "-autoexit",
       "-window_title",
